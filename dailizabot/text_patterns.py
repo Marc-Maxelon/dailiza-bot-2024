@@ -21,6 +21,9 @@ psychobabble = [
       "{0}? Schöner Name!"]],
 
     [r"Wie spät ist es\?",
-     [f"Es ist {datetime.datetime.now().strftime('%H:%M')} Uhr."]]
+     [f"Es ist {datetime.datetime.now().strftime('%H:%M')} Uhr."]],
+
+    [r"Wer bist du?",
+     ["Ich bin Dailiza. Womit kann ich dir helfen?"]],
 
 ]
